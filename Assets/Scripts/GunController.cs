@@ -17,6 +17,6 @@ public class GunController : MonoBehaviour
         transform.Rotate(0, horizontal, 0);
 
         // Поворачиваем объект вокруг оси X (вверх-вниз) в зависимости от вертикального ввода
-        transform.Rotate(0, 0, vertical);
+        transform.Rotate(-vertical, 0, 0);
     }
 }
