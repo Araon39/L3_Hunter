@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8478430292452382208}
   - component: {fileID: 4547864995483200692}
   - component: {fileID: 5882106515483390908}
+  - component: {fileID: 3042122190503648959}
   m_Layer: 0
   m_Name: bulet
   m_TagString: Untagged
@@ -119,5 +120,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 760e40fb7fb8ec94c8ae036d4b755738, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3042122190503648959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2160259055921082519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84773081c5d72c8459f3ce8dfa899152, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

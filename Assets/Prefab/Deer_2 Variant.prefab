@@ -8,6 +8,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 836649777844361877, guid: ac90c07de62962d41af138923eea1eb4, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3124927511024119707, guid: ac90c07de62962d41af138923eea1eb4, type: 3}
+      propertyPath: speed
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6290297813646255940, guid: ac90c07de62962d41af138923eea1eb4, type: 3}
       propertyPath: m_Name
       value: Deer_2 Variant

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MoveAnimals : MonoBehaviour
 {
-    private int speed = 15; // Переменная для хранения скорости движения
+    public int speed = 15; // Переменная для хранения скорости движения
 
     void Update()
     {
